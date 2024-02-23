@@ -11,10 +11,10 @@ dependencies:
 
 devDependencies:
   '@builder.io/qwik':
-    specifier: ^1.4.5
+    specifier: ^1.2.9
     version: 1.4.5(@types/node@20.11.20)(undici@5.28.3)
   '@builder.io/qwik-city':
-    specifier: ^1.4.5
+    specifier: ^1.2.9
     version: 1.4.5(@types/node@20.11.20)(rollup@2.79.1)
   '@types/eslint':
     specifier: ^8.56.3
